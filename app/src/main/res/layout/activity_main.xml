@@ -7,6 +7,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:tag="첫번째 프래그먼트"
+        class="com.nepplus.fragment_20210824.fragements.FirstFragment" />
+
 
 
 </LinearLayout>
