@@ -13,6 +13,18 @@
         android:tag="첫번째 프래그먼트"
         class="com.nepplus.fragment_20210824.fragements.FirstFragment" />
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        class="com.nepplus.fragment_20210824.fragements.SecondFragment"
+        android:tag="secondFrag"/>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        class="com.nepplus.fragment_20210824.fragements.FirstFragment"
+        android:tag="firstFrag" />
+
 
 
 </LinearLayout>
