@@ -12,7 +12,9 @@
         android:textColor="@color/white"
         android:text="첫번쨰 프래그먼트"
         android:textSize="20sp"/>
-    
+
+
+
     <Button
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
